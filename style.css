@@ -1,3 +1,11 @@
-  p{ 
-    text-alingn: center
+body{
+  background: #CCCCCC
+}
+
+p{ 
+    text-alingn: center;
+}
+
+em strong{
+    color: blue;
 }
