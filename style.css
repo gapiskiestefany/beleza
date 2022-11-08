@@ -1,14 +1,14 @@
 body {
   background: #CCCCCC
-}
+ }
 
-h1}
+h1{
   text-alingn: center;
-{
+ }
   
 p {
   text-alingn: center;
-}
+ }
   
  #missao{
    font-size: 20px
@@ -16,5 +16,8 @@ p {
   
   em strong{
     color: #FF00;
-}
+ }
 
+.itens {
+  font-style: italic
+ }
